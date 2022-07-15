@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ch4tic</title>
+    <link>https://ch4tic.github.io/</link>
+    <description>Recent content on ch4tic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>test</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ch4tic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>projects/</title>
+      <link>https://ch4tic.github.io/projects/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ch4tic.github.io/projects/</guid>
+      <description>Here is a list of my favorite programming projects:
+ project koann! AI plays Flappy Bird Simplr Car Detection with OpenCV  For more of my work, visit my GitHub profile.</description>
+    </item>
+    
+    <item>
+      <title>skills/</title>
+      <link>https://ch4tic.github.io/skills/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ch4tic.github.io/skills/</guid>
+      <description>What programming languages do you know?
+I&amp;rsquo;m programming in Python for over 3 years now, plan on learning GoLang.
+What about cyber-security?
+I&amp;rsquo;ve started learning about cybersecurity in 2019. and have been doing it ever since.
+During that period I&amp;rsquo;ve conducted a few blackbox penetration tests for local IT companies which were all successful in securing their web applications.
+Currently interning as a penetration tester and doing bug bounties in my free time.</description>
+    </item>
+    
+    <item>
+      <title>whoami/</title>
+      <link>https://ch4tic.github.io/whoami/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ch4tic.github.io/whoami/</guid>
+      <description>I am a cyber-security and programming enthusiast.
+Currently an interning as a penetration tester in a local IT company.
+I do bug bounties on HackerOne and post my programming projects on GitHub.
+For more information/CV, contact me: belusik@proton.me</description>
+    </item>
+    
+  </channel>
+</rss>
